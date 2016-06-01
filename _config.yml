@@ -1,0 +1,14 @@
+layout_spectrum: 0.8593128339853138
+typography_spectrum: 0.31126851262524724
+color:
+  brandStrength: 0.32701778947375715
+  lightness: 0.09591792710125446
+  saturation: 0.4689462340902537
+  rhythmicContrast: 0.8902751586865634
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: endless musings
